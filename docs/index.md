@@ -14,7 +14,7 @@ hero:
       text: API Examples
       link: /api-examples
   image: 
-    src: /logo.svg
+    src: https://t-imghost.pages.dev/file/af2ee627d5e5152c79818.png
     alt: logo
 
 features:
